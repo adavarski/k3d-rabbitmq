@@ -1,4 +1,4 @@
-## k3d RabbitMQ proto
+## k3d RabbitMQ (Proto)
 
 ### Dependencies
 - [Docker](https://docs.docker.com/engine/install/ubuntu/)
