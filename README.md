@@ -1,8 +1,5 @@
 # k3d RabbitMQ Cluster proto
 
-#WIP
-
-
 ## Install section
 
 1) Install `docker`(if needed).
