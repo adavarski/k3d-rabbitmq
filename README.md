@@ -1,6 +1,6 @@
 # k3d RabbitMQ Cluster proto
 
-## Install section
+## Install docker/curl/wget/make (Ubuntu)
 
 1) Install `docker`(if needed).
 
